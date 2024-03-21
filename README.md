@@ -1,8 +1,6 @@
 Photos List JSON  is an example application developed in Swift/UIKit and without the use of Storyboards. Model-View-ViewModel (MVVM) architecture.
 
-#############################################################
-####################### Functionality #######################
-#############################################################
+***Functionality***
 
 - **Asynchronous Data Fetching**: The application fetches JSON data from the API and parses it into model objects. This operation is performed asynchronously to ensure the user interface remains responsive.
 
@@ -14,9 +12,7 @@ Photos List JSON  is an example application developed in Swift/UIKit and without
 
 - **Favorites Management**: Users can mark images as favorites. The favorite status of each image is persisted across app launches (with UserDefaults storage). This is managed by the FavoritesModel.
 
-#############################################################
-################### Technical Details #######################
-#############################################################
+***Technical Details***
 
 ### AppModel
 
