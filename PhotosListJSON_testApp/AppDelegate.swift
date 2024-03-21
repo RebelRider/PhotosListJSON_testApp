@@ -26,7 +26,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     func applicationWillTerminate(_ application: UIApplication) {
         // Called when the application is about to terminate.
-        print("Created as part of a test task on March 21, 2023. I would be glad to see you as a connection on LinkedIn https://www.linkedin.com/in/kirillsmirnovnn/. Here are my applications on the AppStore: apps.apple.com/ru/developer/kirill-smirnov/id1510775724")
+        print("\n\nCreated as part of a test task on March 21, 2023. \nI would be glad to see you as a connection on LinkedIn \nhttps://www.linkedin.com/in/kirillsmirnovnn/ \n\nHere are my applications on the AppStore \napps.apple.com/ru/developer/kirill-smirnov/id1510775724")
     }
     
 }
